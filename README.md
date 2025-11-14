@@ -19,4 +19,10 @@ This Laravel-based photo album displays 100 images across five themed pages. Eac
 
 ## 🖼️ Screenshot of Sample Output
 
-![Sample Output](public/images/sampleOutput.png)
+![Sample Output](public/images/sampleOutput1.png)
+![Sample Output](public/images/sampleOutput2.png)
+![Sample Output](public/images/sampleOutput3.png)
+![Sample Output](public/images/sampleOutput4.png)
+![Sample Output](public/images/sampleOutput5.png)
+![Sample Output](public/images/sampleOutput6.png)
+![Sample Output](public/images/sampleOutput7.png)
